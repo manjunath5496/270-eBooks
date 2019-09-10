@@ -425,13 +425,16 @@ A Manual of Underground Surveying </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(241).pdf" style="text-decoration:none;">Analog Integrated Circuit Design</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(242).pdf" style="text-decoration:none;">Android SQLite Essentials</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(243).pdf" style="text-decoration:none;">AngularJS Essentials</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(14).pdf" style="text-decoration:none;">The Dreams That Stuff Is Made of: The Most Astounding Papers of Quantum Physics and How They Shook the Scientific World</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(244).pdf" style="text-decoration:none;">AngularJS in Action</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(245).pdf" style="text-decoration:none;">Ansible Configuration Management</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(246).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></b></li>   
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(187).pdf" style="text-decoration:none;">A
+History Of Science</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(247).pdf" style="text-decoration:none;">Ansible: Up and Running</a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(248).pdf" style="text-decoration:none;">Antibiotic Guidelines 2015-2016: Treatment Recommendations For Adult Inpatients</a></b></li>
