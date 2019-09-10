@@ -461,9 +461,9 @@ A Manual of Underground Surveying </a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(262).pdf" style="text-decoration:none;">Big Data For Dummies</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(35).pdf" style="text-decoration:none;">The Hate U Give</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(263).pdf" style="text-decoration:none;">Big Data Glossary</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(36).pdf" style="text-decoration:none;">Healing After Loss: Daily Meditations For Working Through Grief</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(264).pdf" style="text-decoration:none;">Bitter Java</a></b></li> 
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(37).pdf" style="text-decoration:none;">Healthy food choices Drivers and Barriers - Evidence from the Swiss Food Panel</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(38).pdf" style="text-decoration:none;">Healthy Weight Loss — Without Dieting</a></b></li>
