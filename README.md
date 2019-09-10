@@ -102,43 +102,42 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
  
    <li><b><a target="_blank" href="img/sci(62).pdf" style="text-decoration:none;">Kundalini: The Arousal of the Inner Energy</a></b></li>
  
-   <li><b><a target="_blank" href="img/sci(63).pdf" style="text-decoration:none;">The Universe of General Relativity</a></b></li>                              
+   <li><b><a target="_blank" href="img/sci(63).pdf" style="text-decoration:none;">Laboratory Manual in General Microbiology </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/sci(64).pdf" style="text-decoration:none;">Cracking the Einstein Code: Relativity and the Birth of Black Hole Physics</a></b></li>
+  <li><b><a target="_blank" href="img/sci(64).pdf" style="text-decoration:none;">Learn Cassandra</a></b></li>
  
-   <li><b><a target="_blank" href="img/sci(65).pdf" style="text-decoration:none;">The First Three Minutes: A modem view of the origin of
-the universe </a></b></li> 
+   <li><b><a target="_blank" href="img/sci(65).pdf" style="text-decoration:none;">The Complete Idiot's Guide to Learning French On Your Own </a></b></li> 
 
-   <li><b><a target="_blank" href="img/sci(66).pdf" style="text-decoration:none;">'No Success like Failure ...': Einstein's Quest for General Relativity, 1907-1920 </a></b></li> 
+   <li><b><a target="_blank" href="img/sci(66).pdf" style="text-decoration:none;">Learning AngularJS</a></b></li> 
  
-   <li><b><a target="_blank" href="img/sci(67).pdf" style="text-decoration:none;">What Einstein Told His Barber: More Scientific Answers to Everyday Questions</a></b></li>                              
+   <li><b><a target="_blank" href="img/sci(67).pdf" style="text-decoration:none;">Learning Ansible</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/sci(68).pdf" style="text-decoration:none;">Pursuit of Genius: Flexner, Einstein, and the Early Faculty at the Institute for Advanced Study</a></b></li> 
+  <li><b><a target="_blank" href="img/sci(68).pdf" style="text-decoration:none;">Learning Bootstrap 4</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/sci(69).pdf" style="text-decoration:none;">The Cosmic Connection: An Extraterrestrial Perspective</a></b></li>                              
+   <li><b><a target="_blank" href="img/sci(69).pdf" style="text-decoration:none;">Learning Chef</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/sci(70).pdf" style="text-decoration:none;">The God Delusion </a></b></li> 
+  <li><b><a target="_blank" href="img/sci(70).pdf" style="text-decoration:none;">Learning Go </a></b></li> 
   
  
- <li><b><a target="_blank" href="img/sci(71).pdf" style="text-decoration:none;">Introduction to General Relativity, Black Holes, and Cosmology</a></b></li>
+ <li><b><a target="_blank" href="img/sci(71).pdf" style="text-decoration:none;">Learning Perl</a></b></li>
  
- <li><b><a target="_blank" href="img/sci(72).pdf" style="text-decoration:none;">Einstein and Poincaré: The Physical Vacuum</a></b></li> 
+ <li><b><a target="_blank" href="img/sci(72).pdf" style="text-decoration:none;">Learning Puppet</a></b></li> 
  
  
- <li><b><a target="_blank" href="img/sci(73).pdf" style="text-decoration:none;">Lectures on Quantum Mechanics</a></b></li>
-  <li><b><a target="_blank" href="img/sci(74).pdf" style="text-decoration:none;">Proof: The Science of Booze</a></b></li>
-    <li><b><a target="_blank" href="img/sci(75).pdf" style="text-decoration:none;">What the Dog Saw and Other Adventures</a></b></li>                        
-<li><b><a target="_blank" href="img/sci(76).pdf" style="text-decoration:none;">The Greatest Show on Earth: The Evidence for Evolution</a></b></li>
+ <li><b><a target="_blank" href="img/sci(73).pdf" style="text-decoration:none;">Learning Python</a></b></li>
+  <li><b><a target="_blank" href="img/sci(74).pdf" style="text-decoration:none;">Learning Ruby</a></b></li>
+    <li><b><a target="_blank" href="img/sci(75).pdf" style="text-decoration:none;">Learning the bash Shell</a></b></li>                        
+<li><b><a target="_blank" href="img/sci(76).pdf" style="text-decoration:none;">Leung's Encyclopedia of Common Natural Ingredients: Used in Food, Drugs and Cosmetics</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(77).pdf" style="text-decoration:none;">13 Things That Don't Make Sense: The Most Baffling Scientific Mysteries of Our Time</a></b></li> 
+ <li><b><a target="_blank" href="img/sci(77).pdf" style="text-decoration:none;">Living Vegan For Dummies</a></b></li> 
  
  
- <li><b><a target="_blank" href="img/sci(78).pdf" style="text-decoration:none;">Packing for Mars: The Curious Science of Life in the Void </a></b></li>
-  <li><b><a target="_blank" href="img/sci(79).pdf" style="text-decoration:none;">The Elegant Universe</a></b></li>
+ <li><b><a target="_blank" href="img/sci(78).pdf" style="text-decoration:none;">Maintenance Fundamentals </a></b></li>
+  <li><b><a target="_blank" href="img/sci(79).pdf" style="text-decoration:none;">How To Make Money From Home Offline And Online With A Simple Marketing Blueprint</a></b></li>
 
 
- <li><b><a target="_blank" href="img/sci(80).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory</a></b></li> 
+ <li><b><a target="_blank" href="img/sci(80).pdf" style="text-decoration:none;">Management Accounting</a></b></li> 
  
  
  <li><b><a target="_blank" href="img/sci(81).pdf" style="text-decoration:none;">A Brief History of Time </a></b></li>
