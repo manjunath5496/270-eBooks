@@ -289,42 +289,41 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(162).pdf" style="text-decoration:none;">CRM Fundamentals</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(163).pdf" style="text-decoration:none;">Designing and testing crop rotations for organic farming</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(33).pdf" style="text-decoration:none;">Hacking For Dummies</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(164).pdf" style="text-decoration:none;">Destiny Disrupted: A History of the World Through Islamic Eyes</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(34).pdf" style="text-decoration:none;">Hate Crime and Hate Speech in Europe:
-Comprehensive Analysis of International Law Principles, EU-wide Study and National Assessments</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(165).pdf" style="text-decoration:none;">DevOps for Developers</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(35).pdf" style="text-decoration:none;">The Hate U Give</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(166).pdf" style="text-decoration:none;">DevOps For Dummies</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(36).pdf" style="text-decoration:none;">Healing After Loss: Daily Meditations For Working Through Grief</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(167).pdf" style="text-decoration:none;">Do the Work: Overcome Resistance and Get Out of Your Own Way</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(37).pdf" style="text-decoration:none;">Healthy food choices Drivers and Barriers - Evidence from the Swiss Food Panel</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(38).pdf" style="text-decoration:none;">Healthy Weight Loss — Without Dieting</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(39).pdf" style="text-decoration:none;">Pocket Guide to Herbal Medicine</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(40).pdf" style="text-decoration:none;">The Herbal Home Remedy Book: Simple Recipes for Tinctures, Teas, Salves, Tonics, and Syrups</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(41).pdf" style="text-decoration:none;">Hindu Dharma: The Universal Way of Life</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(42).pdf" style="text-decoration:none;">Hiroshima </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(168).pdf" style="text-decoration:none;">Dotcomology - The Science of Making Money Online</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(169).pdf" style="text-decoration:none;">Encyclopedia of Ancient Natural Scientists: The Greek Tradition and Its Many Heirs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(170).pdf" style="text-decoration:none;">Engineering Geology of British Rocks and Soils - Lias Group</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(171).pdf" style="text-decoration:none;">Understanding Engineering Mathematics</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(172).pdf" style="text-decoration:none;">Entrepreneurship: Owning Your Future</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(173).pdf" style="text-decoration:none;">Essential German Grammar </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(43).pdf" style="text-decoration:none;">Home Remedies For Common Illnesses</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(44).pdf" style="text-decoration:none;">Horticultural and Forest Crops</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(45).pdf" style="text-decoration:none;">Crop Production Techniques of Horticultural Crops</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(174).pdf" style="text-decoration:none;">Expert Shell Scripting</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(175).pdf" style="text-decoration:none;">Extending Bootstrap</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(176).pdf" style="text-decoration:none;">The Facts on File Encyclopedia of Health and Medicine</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(46).pdf" style="text-decoration:none;">Report of the Working Group on Horticulture, Plantation Crops and Organic Farming for the XI Five Year Plan (2007-12)</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(177).pdf" style="text-decoration:none;">Fundamental Methods of Mathematical Economics</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(47).pdf" style="text-decoration:none;">How to Feed Friends and Influence People</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(48).pdf" style="text-decoration:none;">How To Make Money Online eBook: Creation for Entrepreneurs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(178).pdf" style="text-decoration:none;">Fundamentals of Organic Farming and Gardening</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(179).pdf" style="text-decoration:none;">Modern German Grammar</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(49).pdf" style="text-decoration:none;">How To Write Free Articles And Market Them with a $0 Marketing Budget </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(180).pdf" style="text-decoration:none;">Hacking Exposed 6: Network Security Secrets & Solutions</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(50).pdf" style="text-decoration:none;">Hungarian: An Essential Grammar</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(51).pdf" style="text-decoration:none;">I love you - A theory of love </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(52).pdf" style="text-decoration:none;">Indian Political Thought </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(181).pdf" style="text-decoration:none;">Hands-On Python: A Tutorial Introduction for Beginners</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(182).pdf" style="text-decoration:none;">How to Make Money in Stocks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(183).pdf" style="text-decoration:none;">How to Be a People Magnet: Finding Friends - And Lovers - And Keeping Them for Life </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(53).pdf" style="text-decoration:none;">Industrial Microbiology: An Introduction </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(184).pdf" style="text-decoration:none;">How to Grow More Vegetables (and Fruits, Nuts, Berries, Grains, and Other Crops) </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(54).pdf" style="text-decoration:none;">Insider's Playbook To The Art Of Persuasion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(185).pdf" style="text-decoration:none;">I Hate Myselfie: A Collection of Essays by Shane Dawson</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(55).pdf" style="text-decoration:none;">Into the Wild </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(186).pdf" style="text-decoration:none;">Indian Medicinal Plants An Illustrated Dictionary</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(56).pdf" style="text-decoration:none;">Introduction to Human Nutrition </a></b></li>                              
 
