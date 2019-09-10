@@ -266,29 +266,28 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(150).pdf" style="text-decoration:none;">The Psychology of Food Choice</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(151).pdf" style="text-decoration:none;">Thinking in C++ </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink IndustriesAsimov On Numbers</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(152).pdf" style="text-decoration:none;">Understanding Big Data. Analytics for Enterprise Class. Hadoop and Streaming Data</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(153).pdf" style="text-decoration:none;">Bootstrap Site Blueprints: Design mobile-first responsive websites with Bootstrap 3 </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(154).pdf" style="text-decoration:none;">Build Your Own Website The Right Way Using HTML & CSS</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(24).pdf" style="text-decoration:none;">Engineering Geology for Underground Rocks</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(155).pdf" style="text-decoration:none;">Build Your Own Z80 Computer: design guidelines and application notes</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(25).pdf" style="text-decoration:none;">Engineers' Surveying Instruments, Their Construction, Adjustment, and Use</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(26).pdf" style="text-decoration:none;">Enzymes in Farm Animal Nutrition</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(27).pdf" style="text-decoration:none;">Essential PHP Security</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(156).pdf" style="text-decoration:none;">Chemistry, Biochemistry and Ayurveda of Indian Medicinal Plants</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(157).pdf" style="text-decoration:none;">Chinese Herbal Medicine: Modern Applications of Traditional Formulas </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(158).pdf" style="text-decoration:none;">The Practice of Chinese Medicine</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(28).pdf" style="text-decoration:none;">Everyday Ayurveda </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(159).pdf" style="text-decoration:none;">Classic Shell Scripting </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(29).pdf" style="text-decoration:none;">Extending Puppet </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(160).pdf" style="text-decoration:none;">Clinical Pharmacology Made Incredibly Easy!</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(30).pdf" style="text-decoration:none;">Go Design Patterns</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(161).pdf" style="text-decoration:none;">Core PHP Programming: Using PHP to Build Dynamic Web Sites</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(31).pdf" style="text-decoration:none;">Growing your own vegetables</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(32).pdf" style="text-decoration:none;">Guidelines for The Use of Herbal Medicines
-in Family Health Care</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(162).pdf" style="text-decoration:none;">CRM Fundamentals</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(163).pdf" style="text-decoration:none;">Designing and testing crop rotations for organic farming</a></b></li> 
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(33).pdf" style="text-decoration:none;">Hacking For Dummies</a></b></li>                              
 
