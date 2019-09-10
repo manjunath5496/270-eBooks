@@ -352,24 +352,24 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(200).pdf" style="text-decoration:none;">Professional AngularJS</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(70).pdf" style="text-decoration:none;">Learning Go </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(201).pdf" style="text-decoration:none;">Programming in Scala </a></b></li> 
   
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(71).pdf" style="text-decoration:none;">Learning Perl</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(202).pdf" style="text-decoration:none;">Foundations of Python Network Programming</a></b></li>
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(72).pdf" style="text-decoration:none;">Learning Puppet</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(203).pdf" style="text-decoration:none;">Rock Engineering Book</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(73).pdf" style="text-decoration:none;">Learning Python</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(74).pdf" style="text-decoration:none;">Learning Ruby</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(75).pdf" style="text-decoration:none;">Learning the bash Shell</a></b></li>                        
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(76).pdf" style="text-decoration:none;">Leung's Encyclopedia of Common Natural Ingredients: Used in Food, Drugs and Cosmetics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(204).pdf" style="text-decoration:none;">Scala for the Impatient</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(205).pdf" style="text-decoration:none;">Seed Storage of Horticultural Crops</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(206).pdf" style="text-decoration:none;">Surveying for Beginners</a></b></li>                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(207).pdf" style="text-decoration:none;">Accounting Principles: A Business Perspective, Financial Accounting (Chapters 9 – 18)</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(77).pdf" style="text-decoration:none;">Living Vegan For Dummies</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(208).pdf" style="text-decoration:none;">The Book of Joy: Lasting Happiness in a Changing World</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(78).pdf" style="text-decoration:none;">Maintenance Fundamentals </a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(79).pdf" style="text-decoration:none;">How To Make Money From Home Offline And Online With A Simple Marketing Blueprint</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(209).pdf" style="text-decoration:none;">The Book Of Ruby</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(210).pdf" style="text-decoration:none;">The Complete Idiot's Guide to Home Repair</a></b></li>
 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(80).pdf" style="text-decoration:none;">Management Accounting</a></b></li> 
