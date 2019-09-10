@@ -2,40 +2,37 @@
 
                              
 
- <li><b><a target="_blank" href="img/sci(1).pdf" style="text-decoration:none;">Gödel, Escher, Bach: An Eternal Golden Braid</a></b></li>
+ <li><b><a target="_blank" href="img/sci(1).pdf" style="text-decoration:none;">Bootstrap for Rails</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(2).pdf" style="text-decoration:none;">Electrodynamics: from Ampere to Einstein</a></b></li>
+ <li><b><a target="_blank" href="img/sci(2).pdf" style="text-decoration:none;">Build Your Own Smart Home</a></b></li>
 
-<li><b><a target="_blank" href="img/sci(3).pdf" style="text-decoration:none;">Einstein Manifolds</a></b></li>
- <li><b><a target="_blank" href="img/sci(4).pdf" style="text-decoration:none;">A Short History of Chemistry</a></b></li>                              
-<li><b><a target="_blank" href="img/sci(5).pdf" style="text-decoration:none;">A Scientist at the Seashore</a></b></li>
-<li><b><a target="_blank" href="img/sci(6).pdf" style="text-decoration:none;">The Birth and Death of the Sun</a></b></li>
- <li><b><a target="_blank" href="img/sci(7).pdf" style="text-decoration:none;">The large scale structure of space-time</a></b></li>
+<li><b><a target="_blank" href="img/sci(3).pdf" style="text-decoration:none;">A Student's Introduction to English Grammar</a></b></li>
+ <li><b><a target="_blank" href="img/sci(4).pdf" style="text-decoration:none;">Cassandra: The Definitive Guide</a></b></li>                              
+<li><b><a target="_blank" href="img/sci(5).pdf" style="text-decoration:none;">Cassandra Tutorial</a></b></li>
+<li><b><a target="_blank" href="img/sci(6).pdf" style="text-decoration:none;">Chef Tutorial</a></b></li>
+ <li><b><a target="_blank" href="img/sci(7).pdf" style="text-decoration:none;">Civil Engineering Formulas</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(8).pdf" style="text-decoration:none;"> Just Six Numbers: The Deep Forces that Shape the Universe </a></b></li>
-   <li><b><a target="_blank" href="img/sci(9).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>                             
- <li><b><a target="_blank" href="img/sci(10).pdf" style="text-decoration:none;">Modeling Black Hole Evaporation </a></b></li>                              
-<li><b><a target="_blank" href="img/sci(11).pdf" style="text-decoration:none;">Pliny : Natural history ; with an English translation in ten volumes</a></b></li>
-<li><b><a target="_blank" href="img/sci(12).pdf" style="text-decoration:none;">Unreliable: The Science and Logic of Bill Nye</a></b></li>
-<li><b><a target="_blank" href="img/sci(13).pdf" style="text-decoration:none;">Particle physics</a></b></li>
+ <li><b><a target="_blank" href="img/sci(8).pdf" style="text-decoration:none;"> Macmillan Collocations Dictionary for Learners of English </a></b></li>
+   <li><b><a target="_blank" href="img/sci(9).pdf" style="text-decoration:none;">Cost and Management Accounting</a></b></li>                             
+ <li><b><a target="_blank" href="img/sci(10).pdf" style="text-decoration:none;">A Taste of Heritage: Crow Indian Recipes and Herbal Medicines </a></b></li>                              
+<li><b><a target="_blank" href="img/sci(11).pdf" style="text-decoration:none;">Dairy Ingredients for Food Processing</a></b></li>
+<li><b><a target="_blank" href="img/sci(12).pdf" style="text-decoration:none;">The Palgrave Macmillan Dictionary of Political
+Thought</a></b></li>
+<li><b><a target="_blank" href="img/sci(13).pdf" style="text-decoration:none;">The Principles And Benefits Of Change</a></b></li>
                               
-<li><b><a target="_blank" href="img/sci(14).pdf" style="text-decoration:none;">The Grand Design</a></b></li>
-<li><b><a target="_blank" href="img/sci(15).pdf" style="text-decoration:none;">The Roots of Humankind</a></b></li>
+<li><b><a target="_blank" href="img/sci(15).pdf" style="text-decoration:none;">The Master Mind</a></b></li>
 
+<li><b><a target="_blank" href="img/sci(16).pdf" style="text-decoration:none;">Economics for Everyone: A Short Guide to the Economics of Capitalism</a></b></li>
 
-
-<li><b><a target="_blank" href="img/sci(16).pdf" style="text-decoration:none;">Ideas and Opinions</a></b></li>
-
-  <li><b><a target="_blank" href="img/sci(17).pdf" style="text-decoration:none;">Intelligent Life in the Universe</a></b></li>   
+  <li><b><a target="_blank" href="img/sci(17).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>   
   
-<li><b><a target="_blank" href="img/sci(18).pdf" style="text-decoration:none;">The Collapsing Universe: The Story of the Black Holes</a></b></li> 
-<li><b><a target="_blank" href="img/sci(19).pdf" style="text-decoration:none;">How Physics Confronts Reality: Einstein Was Correct, But Bohr Won the Game</a></b></li> 
+<li><b><a target="_blank" href="img/sci(18).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></b></li> 
 
-<li><b><a target="_blank" href="img/sci(20).pdf" style="text-decoration:none;">Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World </a></b></li>
+<li><b><a target="_blank" href="img/sci(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
 
-<li><b><a target="_blank" href="img/sci(21).pdf" style="text-decoration:none;">From Quarks to Black Holes: Interviewing the Universe</a></b></li>
-<li><b><a target="_blank" href="img/sci(22).pdf" style="text-decoration:none;">Asimov On Numbers</a></b></li> 
- <li><b><a target="_blank" href="img/sci(23).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li> 
+<li><b><a target="_blank" href="img/sci(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
+<li><b><a target="_blank" href="img/sci(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink IndustriesAsimov On Numbers</a></b></li> 
+ <li><b><a target="_blank" href="img/sci(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
  
 
    <li><b><a target="_blank" href="img/sci(24).pdf" style="text-decoration:none;">Planets for Man</a></b></li>
