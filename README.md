@@ -31,7 +31,7 @@ Thought</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink IndustriesAsimov On Numbers</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink Industries</a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
  
 
@@ -422,23 +422,22 @@ A Manual of Underground Surveying </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(238).pdf" style="text-decoration:none;"> Algorithm Design </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(239).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(240).pdf" style="text-decoration:none;">Algorithms</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(11).pdf" style="text-decoration:none;">Dairy Ingredients for Food Processing</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(12).pdf" style="text-decoration:none;">The Palgrave Macmillan Dictionary of Political
-Thought</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(13).pdf" style="text-decoration:none;">The Principles And Benefits Of Change</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(241).pdf" style="text-decoration:none;">Analog Integrated Circuit Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(242).pdf" style="text-decoration:none;">Android SQLite Essentials</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(243).pdf" style="text-decoration:none;">AngularJS Essentials</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(15).pdf" style="text-decoration:none;">The Master Mind</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(244).pdf" style="text-decoration:none;">AngularJS in Action</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(16).pdf" style="text-decoration:none;">Economics for Everyone: A Short Guide to the Economics of Capitalism</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(245).pdf" style="text-decoration:none;">Ansible Configuration Management</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(17).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(246).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(18).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(247).pdf" style="text-decoration:none;">Ansible: Up and Running</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(248).pdf" style="text-decoration:none;">Antibiotic Guidelines 2015-2016: Treatment Recommendations For Adult Inpatients</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink IndustriesAsimov On Numbers</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(249).pdf" style="text-decoration:none;">Arabic: An Essential Grammar</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(250).pdf" style="text-decoration:none;">Essentials of Arabic Grammar for Learning Quranic Language</a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
  
 
