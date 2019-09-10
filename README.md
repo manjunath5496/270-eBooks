@@ -407,5 +407,86 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(230).pdf" style="text-decoration:none;">A History of India</a></b></li>  
    
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(231).pdf" style="text-decoration:none;">
+A Manual of Underground Surveying </a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(232).pdf" style="text-decoration:none;">A Photographic Atlas for the Microbiology Laboratory</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(233).pdf" style="text-decoration:none;">Evidence-Based ZHENG: A Traditional Chinese Medicine Syndrome</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(234).pdf" style="text-decoration:none;">A New Earth: Awakening to Your Life's Purpose</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(235).pdf" style="text-decoration:none;">Accounting Principles: A Business Perspective</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(236).pdf" style="text-decoration:none;">Solutions to Advanced Engineering Mathematics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(237).pdf" style="text-decoration:none;">Artificial Intelligence: A Guide to Intelligent Systems</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(238).pdf" style="text-decoration:none;"> Algorithm Design </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(239).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(240).pdf" style="text-decoration:none;">Algorithms</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(11).pdf" style="text-decoration:none;">Dairy Ingredients for Food Processing</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(12).pdf" style="text-decoration:none;">The Palgrave Macmillan Dictionary of Political
+Thought</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(13).pdf" style="text-decoration:none;">The Principles And Benefits Of Change</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(15).pdf" style="text-decoration:none;">The Master Mind</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(16).pdf" style="text-decoration:none;">Economics for Everyone: A Short Guide to the Economics of Capitalism</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(17).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(18).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink IndustriesAsimov On Numbers</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
+ 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(24).pdf" style="text-decoration:none;">Engineering Geology for Underground Rocks</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(25).pdf" style="text-decoration:none;">Engineers' Surveying Instruments, Their Construction, Adjustment, and Use</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(26).pdf" style="text-decoration:none;">Enzymes in Farm Animal Nutrition</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(27).pdf" style="text-decoration:none;">Essential PHP Security</a></b></li>
    
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(28).pdf" style="text-decoration:none;">Everyday Ayurveda </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(29).pdf" style="text-decoration:none;">Extending Puppet </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(30).pdf" style="text-decoration:none;">Go Design Patterns</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(31).pdf" style="text-decoration:none;">Growing your own vegetables</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(32).pdf" style="text-decoration:none;">Guidelines for The Use of Herbal Medicines
+in Family Health Care</a></b></li> 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(33).pdf" style="text-decoration:none;">Hacking For Dummies</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(34).pdf" style="text-decoration:none;">Hate Crime and Hate Speech in Europe:
+Comprehensive Analysis of International Law Principles, EU-wide Study and National Assessments</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(35).pdf" style="text-decoration:none;">The Hate U Give</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(36).pdf" style="text-decoration:none;">Healing After Loss: Daily Meditations For Working Through Grief</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(37).pdf" style="text-decoration:none;">Healthy food choices Drivers and Barriers - Evidence from the Swiss Food Panel</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(38).pdf" style="text-decoration:none;">Healthy Weight Loss — Without Dieting</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(39).pdf" style="text-decoration:none;">Pocket Guide to Herbal Medicine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(40).pdf" style="text-decoration:none;">The Herbal Home Remedy Book: Simple Recipes for Tinctures, Teas, Salves, Tonics, and Syrups</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(41).pdf" style="text-decoration:none;">Hindu Dharma: The Universal Way of Life</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
