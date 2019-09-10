@@ -465,11 +465,8 @@ A Manual of Underground Surveying </a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(264).pdf" style="text-decoration:none;">Bitter Java</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(37).pdf" style="text-decoration:none;">Healthy food choices Drivers and Barriers - Evidence from the Swiss Food Panel</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(38).pdf" style="text-decoration:none;">Healthy Weight Loss — Without Dieting</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(39).pdf" style="text-decoration:none;">Pocket Guide to Herbal Medicine</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(40).pdf" style="text-decoration:none;">The Herbal Home Remedy Book: Simple Recipes for Tinctures, Teas, Salves, Tonics, and Syrups</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(41).pdf" style="text-decoration:none;">Hindu Dharma: The Universal Way of Life</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(265).rar" style="text-decoration:none;">Acupuncture and Herbal Medicine for Cancer Patients</a></b></li>
+
  
  
  
