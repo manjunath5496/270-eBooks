@@ -438,30 +438,28 @@ A Manual of Underground Surveying </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(249).pdf" style="text-decoration:none;">Arabic: An Essential Grammar</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(250).pdf" style="text-decoration:none;">Essentials of Arabic Grammar for Learning Quranic Language</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(251).pdf" style="text-decoration:none;">Artful Persuasion: How to Command Attention, Change Minds, and Influence People</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(24).pdf" style="text-decoration:none;">Engineering Geology for Underground Rocks</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(252).pdf" style="text-decoration:none;">Artificial intelligence for games</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(25).pdf" style="text-decoration:none;">Engineers' Surveying Instruments, Their Construction, Adjustment, and Use</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(26).pdf" style="text-decoration:none;">Enzymes in Farm Animal Nutrition</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(27).pdf" style="text-decoration:none;">Essential PHP Security</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(253).pdf" style="text-decoration:none;">Atlas of Home Remedies for the Most Common Diseases</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(254).pdf" style="text-decoration:none;">Ayurveda and Health Tourism | Ayurveda Magazine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(255).pdf" style="text-decoration:none;">Medicinal Plants | Ayurvedic Herbal Medicines</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(28).pdf" style="text-decoration:none;">Everyday Ayurveda </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(256).pdf" style="text-decoration:none;">Bartram's Encyclopedia of Herbal Medicine </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(29).pdf" style="text-decoration:none;">Extending Puppet </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(257).pdf" style="text-decoration:none;">Basic Engineering Mathematics </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(30).pdf" style="text-decoration:none;">Go Design Patterns</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(258).pdf" style="text-decoration:none;">Basic English Grammar: Structures And Vocabulary</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(31).pdf" style="text-decoration:none;">Growing your own vegetables</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(32).pdf" style="text-decoration:none;">Guidelines for The Use of Herbal Medicines
-in Family Health Care</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(259).pdf" style="text-decoration:none;">Beginning AngularJS</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(260).pdf" style="text-decoration:none;">Beginning Ruby: From Novice to Professional</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(33).pdf" style="text-decoration:none;">Hacking For Dummies</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(261).pdf" style="text-decoration:none;">Big Data Analytics: Disruptive Technologies for Changing the Game</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(34).pdf" style="text-decoration:none;">Hate Crime and Hate Speech in Europe:
-Comprehensive Analysis of International Law Principles, EU-wide Study and National Assessments</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(262).pdf" style="text-decoration:none;">Big Data For Dummies</a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(35).pdf" style="text-decoration:none;">The Hate U Give</a></b></li> 
 
