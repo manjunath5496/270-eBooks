@@ -140,21 +140,21 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
  <li><b><a target="_blank" href="img/sci(80).pdf" style="text-decoration:none;">Management Accounting</a></b></li> 
  
  
- <li><b><a target="_blank" href="img/sci(81).pdf" style="text-decoration:none;">A Brief History of Time </a></b></li>
-  <li><b><a target="_blank" href="img/sci(82).pdf" style="text-decoration:none;">What If?: Serious Scientific Answers to Absurd Hypothetical Questions</a></b></li>
+ <li><b><a target="_blank" href="img/sci(81).pdf" style="text-decoration:none;">Managing Windows Servers with Chef </a></b></li>
+  <li><b><a target="_blank" href="img/sci(82).pdf" style="text-decoration:none;">Mastering Ansible</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(83).pdf" style="text-decoration:none;">Moonwalking with Einstein: The Art and Science of Remembering Everything</a></b></li>
-  <li><b><a target="_blank" href="img/sci(84).pdf" style="text-decoration:none;">Death by Black Hole: And Other Cosmic Quandaries</a></b></li>
+ <li><b><a target="_blank" href="img/sci(83).pdf" style="text-decoration:none;">Mastering Apache Cassandra</a></b></li>
+  <li><b><a target="_blank" href="img/sci(84).pdf" style="text-decoration:none;">Mastering Chef</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(85).pdf" style="text-decoration:none;">Lectures on Quantum Gravity and Black Holes </a></b></li>
-  <li><b><a target="_blank" href="img/sci(86).pdf" style="text-decoration:none;">Black Holes, Wormholes and Time Machines</a></b></li>
+ <li><b><a target="_blank" href="img/sci(85).pdf" style="text-decoration:none;">Mastering Perl </a></b></li>
+  <li><b><a target="_blank" href="img/sci(86).pdf" style="text-decoration:none;">Mastering UNIX Shell Scripting</a></b></li>
 
- <li><b><a target="_blank" href="img/sci(87).pdf" style="text-decoration:none;">Secrets of the Old One: Einstein, 1905</a></b></li>
-  <li><b><a target="_blank" href="img/sci(88).pdf" style="text-decoration:none;">Pale Blue Dot: A Vision of the Human Future in Space</a></b></li>
-  <li><b><a target="_blank" href="img/sci(89).pdf" style="text-decoration:none;">Einstein and Oppenheimer: The Meaning of Genius</a></b></li>
+ <li><b><a target="_blank" href="img/sci(87).pdf" style="text-decoration:none;">Fundamentals of Probability and Statistics for Engineers</a></b></li>
+  <li><b><a target="_blank" href="img/sci(88).pdf" style="text-decoration:none;">Medicinal Chemistry of Bioactive Natural Products</a></b></li>
+  <li><b><a target="_blank" href="img/sci(89).pdf" style="text-decoration:none;">World of microbiology and immunology</a></b></li>
   
   
-  <li><b><a target="_blank" href="img/sci(90).pdf" style="text-decoration:none;">The Drunkard's Walk: How Randomness Rules Our Lives</a></b></li>
+  <li><b><a target="_blank" href="img/sci(90).pdf" style="text-decoration:none;">Money Making Secrets of Mind Power Masters</a></b></li>
   <li><b><a target="_blank" href="img/sci(91).pdf" style="text-decoration:none;">Incognito: The Secret Lives of The Brain</a></b></li>
 
  <li><b><a target="_blank" href="img/sci(92).pdf" style="text-decoration:none;">Einstein and Religion: Physics and Theology</a></b></li>
