@@ -13,7 +13,13 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(7).pdf" style="text-decoration:none;">Civil Engineering Formulas</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(8).pdf" style="text-decoration:none;"> Macmillan Collocations Dictionary for Learners of English </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(9).pdf" style="text-decoration:none;">Cost and Management Accounting</a></b></li>                             
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(9).pdf" style="text-decoration:none;">Cost and Management Accounting</a></b></li>
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(97).pdf" style="text-decoration:none;"> A Brief History of Time </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(19).pdf" style="text-decoration:none;">The large scale structure of space-time</a></b></li>  
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(271).pdf" style="text-decoration:none;">A Stubbornly Persistent Illusion: The Essential Scientific Works of Albert Einstein</a></b></li>   
+   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(10).pdf" style="text-decoration:none;">A Taste of Heritage: Crow Indian Recipes and Herbal Medicines </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(11).pdf" style="text-decoration:none;">Dairy Ingredients for Food Processing</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(12).pdf" style="text-decoration:none;">The Palgrave Macmillan Dictionary of Political
