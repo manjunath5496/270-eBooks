@@ -323,35 +323,34 @@ Comprehensive Analysis of International Law Principles, EU-wide Study and Nation
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(185).pdf" style="text-decoration:none;">I Hate Myselfie: A Collection of Essays by Shane Dawson</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(186).pdf" style="text-decoration:none;">Indian Medicinal Plants An Illustrated Dictionary</a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(56).pdf" style="text-decoration:none;">Introduction to Human Nutrition </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(186).pdf" style="text-decoration:none;">Indian Medicinal Plants: An Illustrated Dictionary</a></b></li>
+                             
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(57).pdf" style="text-decoration:none;">Invent Your Own Computer Games with Python </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(188).pdf" style="text-decoration:none;">Introduction to Algorithms </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(58).pdf" style="text-decoration:none;">Jesus' Course in Miracles</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(59).pdf" style="text-decoration:none;">Traditional Medicine </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(189).pdf" style="text-decoration:none;">Jump Start Bootstrap: Get Up to Speed With Bootstrap in a Weekend</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(190).pdf" style="text-decoration:none;">Duke's Handbook of Medicinal Plants of the Bible </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(60).pdf" style="text-decoration:none;">Kingdom Principles: Preparing for Kingdom Experience and Expansion </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(191).pdf" style="text-decoration:none;">Medicinal Plants in Folk Tradition − an Ethnobotany of Britain and Ireland  </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(61).pdf" style="text-decoration:none;">Kingdom Principles Of Financial Increase </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(192).pdf" style="text-decoration:none;">Microbiology </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(62).pdf" style="text-decoration:none;">Kundalini: The Arousal of the Inner Energy</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(193).pdf" style="text-decoration:none;">MongoDB: The Definitive Guide</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(63).pdf" style="text-decoration:none;">Laboratory Manual in General Microbiology </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(194).pdf" style="text-decoration:none;">New Cutting Edge Pre-intermediate Workbook With Key </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(64).pdf" style="text-decoration:none;">Learn Cassandra</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(195).pdf" style="text-decoration:none;">No More Secrets with Big Data Analytics</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(65).pdf" style="text-decoration:none;">The Complete Idiot's Guide to Learning French On Your Own </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(196).pdf" style="text-decoration:none;">Node.js in Action</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(66).pdf" style="text-decoration:none;">Learning AngularJS</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(197).pdf" style="text-decoration:none;">Perl Cookbook</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(67).pdf" style="text-decoration:none;">Learning Ansible</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(198).pdf" style="text-decoration:none;">Perl: The Complete Reference</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(68).pdf" style="text-decoration:none;">Learning Bootstrap 4</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(199).pdf" style="text-decoration:none;">Pocket Atlas of Oral Diseases</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(69).pdf" style="text-decoration:none;">Learning Chef</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(200).pdf" style="text-decoration:none;">Professional AngularJS</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(70).pdf" style="text-decoration:none;">Learning Go </a></b></li> 
   
