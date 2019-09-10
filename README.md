@@ -35,18 +35,18 @@ Thought</a></b></li>
  <li><b><a target="_blank" href="img/sci(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
  
 
-   <li><b><a target="_blank" href="img/sci(24).pdf" style="text-decoration:none;">Planets for Man</a></b></li>
+   <li><b><a target="_blank" href="img/sci(24).pdf" style="text-decoration:none;">Engineering Geology for Underground Rocks</a></b></li>
  
-   <li><b><a target="_blank" href="img/sci(25).pdf" style="text-decoration:none;">The Mysterious Universe</a></b></li>                              
- <li><b><a target="_blank" href="img/sci(26).pdf" style="text-decoration:none;">The Book of Eggs: A Life-Size Guide to the Eggs of Six Hundred of the World's Bird Species</a></b></li>
- 
+   <li><b><a target="_blank" href="img/sci(25).pdf" style="text-decoration:none;">Engineers' Surveying Instruments, Their Construction, Adjustment, and Use</a></b></li>                              
+ <li><b><a target="_blank" href="img/sci(26).pdf" style="text-decoration:none;">Enzymes in Farm Animal Nutrition</a></b></li>
+ <li><b><a target="_blank" href="img/sci(27).pdf" style="text-decoration:none;">Essential PHP Security</a></b></li>
    
  
-   <li><b><a target="_blank" href="img/sci(28).pdf" style="text-decoration:none;">Einstein, Physics and Reality </a></b></li>
+   <li><b><a target="_blank" href="img/sci(28).pdf" style="text-decoration:none;">Everyday Ayurveda </a></b></li>
  
-   <li><b><a target="_blank" href="img/sci(29).pdf" style="text-decoration:none;">Sapiens: A Brief History of Humankind </a></b></li>                              
+   <li><b><a target="_blank" href="img/sci(29).pdf" style="text-decoration:none;">Extending Puppet </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/sci(30).pdf" style="text-decoration:none;">Origins: Fourteen Billion Years of Cosmic Evolution</a></b></li>
+  <li><b><a target="_blank" href="img/sci(30).pdf" style="text-decoration:none;">Go Design Patterns</a></b></li>
  
    <li><b><a target="_blank" href="img/sci(31).pdf" style="text-decoration:none;">Einstein and the Changing Worldviews of Physics</a></b></li> 
     <li><b><a target="_blank" href="img/sci(32).pdf" style="text-decoration:none;">Grooming, Gossip and the Evolution of Language</a></b></li> 
